@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|d:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\designpatterns\\decoratorpattern\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|d:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\designpatterns\\decoratorpattern\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|d:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\designpatterns\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7274272E-F7BD-4802-9A52-84203B2851DE}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "DecoratorPattern\\ClassDiagram1.cd",
+              "ToolTip": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\ClassDiagram1.cd",
+              "RelativeToolTip": "DecoratorPattern\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-11T03:24:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\MilkDecorator.cs",
+              "ToolTip": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\MilkDecorator.cs",
+              "RelativeToolTip": "DecoratorPattern\\MilkDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:24:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Program.cs",
+              "ToolTip": "D:\\study\\\u8BBE\u8BA1\u6A21\u5F0F\\code\\DesignPatterns\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:24:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

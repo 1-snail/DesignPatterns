@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
+    // 具体装饰器
     internal class MilkDecorator : CoffeeDecorator
     {
         public MilkDecorator(ICoffee coffee) : base(coffee)
