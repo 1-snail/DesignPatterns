@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectPath": "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\daiji\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\obj\\",
+        "outputPath": "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

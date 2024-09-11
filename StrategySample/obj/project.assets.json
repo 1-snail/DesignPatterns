@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study\\设计模式\\code\\StrategySample\\StrategySample\\StrategySample.csproj",
+      "projectUniqueName": "D:\\study\\设计模式\\code\\DesignPatterns\\StrategySample\\StrategySample.csproj",
       "projectName": "StrategySample",
-      "projectPath": "D:\\study\\设计模式\\code\\StrategySample\\StrategySample\\StrategySample.csproj",
+      "projectPath": "D:\\study\\设计模式\\code\\DesignPatterns\\StrategySample\\StrategySample.csproj",
       "packagesPath": "C:\\Users\\daiji\\.nuget\\packages\\",
-      "outputPath": "D:\\study\\设计模式\\code\\StrategySample\\StrategySample\\obj\\",
+      "outputPath": "D:\\study\\设计模式\\code\\DesignPatterns\\StrategySample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

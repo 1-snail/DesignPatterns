@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e5LtfhN8HfFwjA55hQpEgBK62RjATCO7vIHkyfEYxtK20gyN5e1KhLYuHHzJ7D0Vy+7B+g2j1SCwPOm7zjck8w==",
+  "dgSpecHash": "CcJqrJ0YKGX1ntl0ZubAqqY+S3Ej6m6Olpb+if0uMtRIHQXzCUbb6r4x0/WBZ6xa3past0JuBj6BaqG6cS4H4Q==",
   "success": true,
-  "projectFilePath": "D:\\study\\设计模式\\code\\StrategySample\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "D:\\study\\设计模式\\code\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
