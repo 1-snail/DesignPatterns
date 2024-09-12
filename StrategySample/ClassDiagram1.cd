@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="StrategySample.Discount">
-    <Position X="5" Y="4.5" Width="3" />
+    <Position X="4.25" Y="4.5" Width="3" />
     <TypeIdentifier>
       <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Discount.cs</FileName>

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace DecoratorPattern
 {
     // 组件接口
-    internal interface ICoffee
+    internal  interface ICoffee
     {
-        string GetDescription();
-        double GetCost();
+         string GetDescription();
+         double GetCost();
     }
 }

@@ -15,14 +15,14 @@
       <FileName>MilkDecorator.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.Program" Collapsed="true">
+  <Class Name="DecoratorPattern.Program">
     <Position X="4.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.SimpleCoffee" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="DecoratorPattern.SimpleCoffee" BaseTypeListCollapsed="true">
     <Position X="6.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -30,8 +30,8 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Interface Name="DecoratorPattern.ICoffee" Collapsed="true">
-    <Position X="4.5" Y="3.75" Width="1.5" />
+  <Interface Name="DecoratorPattern.ICoffee">
+    <Position X="3" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ICoffee.cs</FileName>
