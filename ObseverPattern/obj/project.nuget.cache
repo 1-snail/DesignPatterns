@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZ1Q5Goyxngu+TMClaA1zRT71xKnT0eOG/ff4Z+N5zZSKKyNUl7oIqciAOQIgXe+7dr8T8f6qhcDPcR2RdpHvQ==",
+  "dgSpecHash": "thA3BziRdZEdp2tMaC9Mu7aQznkAYx7c8qH659fGYGChcbE8X5y9M07p098DlCFoxDHrbf0662WI8XLuLEmcdg==",
   "success": true,
-  "projectFilePath": "D:\\study\\设计模式\\code\\StrategySample\\ObseverPattern\\ObseverPattern.csproj",
+  "projectFilePath": "D:\\study\\1_study_github\\4_DesignPatter\\DesignPatterns\\ObseverPattern\\ObseverPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
